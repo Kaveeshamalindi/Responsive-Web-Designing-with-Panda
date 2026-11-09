@@ -3,11 +3,12 @@
 ## UI Layout
 
 <p align="center">
-  <img src="Images/Desktop.png" width="100%" alt="Desktop View">
+  <img src="Images/Image.png" width="100%" alt="Desktop View">
 </p>
 
 ## Web Content
 
+<br>
 <p align="center">
   <img src="Images/Desktop.png" width="100%" alt="Mobile View">
 </p>
